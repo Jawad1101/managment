@@ -1,0 +1,6 @@
+ali 12 B+ 70 120 166 35 65 not-treated
+saad 13 B+ 70 120 166 35 65 not-treated
+ayan 14 B+ 70 120 166 35 65 not-treated
+Mun 19 O- 80 110 170 98 70 not-treated
+bil 22 g+ 98 122 7 77 66 not-treated
+saffan 22 b+ 44 120 7 99 44 not-treated
